@@ -181,19 +181,6 @@ BOSS直聘安全应急响应中心官方公众号
 ---
 
 
-### [solar专业应急响应团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
-
-[:camera_flash:【2026-08-06T17:48:11】](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247511754&idx=1&sn=ab2f7ec10354f6905df6dad31541f810&scene=27#wechat_redirect)
-
-7×24小时在线服务，国企背景资质保证。专业安全团队，十余年来专注数据恢复，漏洞修补，安全加固。当天完成评估、修复，不成功不收费。同时完成攻击溯源、漏洞排查、漏洞修补，保障您的服务器安全！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_60278a9f2272" alt="" />
-
----
-
-
 ### [小鹏汽车信息安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNTY5MTQ1NA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNTY5MTQ1NA==)
@@ -1477,6 +1464,19 @@ SRC活动整合发布，新上线SRC通知，SRC导航
 深信服安全应急响应中心，简称SSRC，主要负责处理深信服产品和业务安全问题，以及相关威胁情报，欢迎安全行业人员沟通交流。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fce28bf135cd" alt="" />
+
+---
+
+
+### [solar专业应急响应团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+7×24小时在线服务，国企背景资质保证。专业安全团队，十余年来专注数据恢复，漏洞修补，安全加固。当天完成评估、修复，不成功不收费。同时完成攻击溯源、漏洞排查、漏洞修补，保障您的服务器安全！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_60278a9f2272" alt="" />
 
 ---
 
